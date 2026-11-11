@@ -129,7 +129,7 @@
     },
     {
       "id": "magpie",
-      "repository": "thedavidweng/metrix-bar-dashboards",
+      "repository": "thedavidweng/metrix-bar",
       "path": "magpie/magpie.bar",
       "author": "thedavidweng",
       "license": "AGPL-3.0-only",
